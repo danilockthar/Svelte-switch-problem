@@ -6,6 +6,10 @@ Teniendo 4 componentes Switch donde al clickearlos se enciende y apaga la bombil
 <img src="https://i.postimg.cc/J4SzQw76/ezgif-com-crop.gif" />
 <br/>
 
+Challenge:
+https://www.youtube.com/watch?v=5aGcAmVlO0E&t=302s&ab_channel=JoyofCode
+<img src="https://i.postimg.cc/prKyhx3n/5a-Gc-Am-Vl-O0-Esd.jpg" />
+
 ### Sveltekit + typescript
 
 ## Developing
