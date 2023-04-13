@@ -1,6 +1,6 @@
 # Switch Problem en Sveltekit
 
-### Teniendo 4 componentes Switch donde al clickearlos se enciende y apaga la bombilla, lograr que al encender otra bombilla se apaguen las otras 3.
+Teniendo 4 componentes Switch donde al clickearlos se enciende y apaga la bombilla, lograr que al encender otra bombilla se apaguen las otras 3.
 
 <br />
 <img src="https://i.postimg.cc/J4SzQw76/ezgif-com-crop.gif" />
