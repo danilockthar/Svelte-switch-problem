@@ -2,6 +2,8 @@
 
 Teniendo 4 componentes Switch donde al clickearlos se enciende y apaga la bombilla, lograr que al encender otra bombilla se apaguen las otras 3.
 
+<img src="https://i.postimg.cc/J4SzQw76/ezgif-com-crop.gif" />
+
 Sveltekit + typescript
 
 ## Developing
