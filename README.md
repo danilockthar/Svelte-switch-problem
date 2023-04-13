@@ -7,7 +7,7 @@ Teniendo 4 instancias del mismo componente < Switch /> donde al clickearlos se e
 <br/>
 
 Challenge:<br/>
-https://www.youtube.com/watch?v=5aGcAmVlO0E&t=302s&ab_channel=JoyofCode
+<video src='https://www.youtube.com/watch?v=5aGcAmVlO0E&t=302s&ab_channel=JoyofCode' width=180/>
 
 ### Sveltekit + typescript
 
