@@ -4,15 +4,16 @@
 </script>
 
 <script lang="ts">
-
-	export let identifier:string | number;
+	export let identifier: string | number;
+	let isSwitchOn: boolean;
 
 	const handleSwitch = () => {
 		switchedOn.set([identifier]);
 	};
 
 	/* caracter $ delante de switchedOn me ahorra de hacer switchedOn.subscribe (autosubscribe)*/
-	$: isSwitchOn = $switchedOn[0] === identifier;
+
+	$: isSwitchOn = $switchedOn[0] === identifier && isSwitchOn === false ? true : false;
 </script>
 
 <button on:click={handleSwitch}>
