@@ -1,14 +1,13 @@
 # Switch Problem en Sveltekit
 
-Teniendo 4 componentes Switch donde al clickearlos se enciende y apaga la bombilla, lograr que al encender otra bombilla se apaguen las otras 3.
+Teniendo 4 instancias del mismo componente < Switch /> donde al clickearlos se enciende y apaga la bombilla, lograr que al encender una se apaguen las otras 3.
 
 <br />
 <img src="https://i.postimg.cc/J4SzQw76/ezgif-com-crop.gif" />
 <br/>
 
-Challenge:
+Challenge:<br/>
 https://www.youtube.com/watch?v=5aGcAmVlO0E&t=302s&ab_channel=JoyofCode
-<img src="https://i.postimg.cc/prKyhx3n/5a-Gc-Am-Vl-O0-Esd.jpg" />
 
 ### Sveltekit + typescript
 
